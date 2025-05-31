@@ -1,4 +1,4 @@
-
+<play song all music
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=𝗠𝗔𝗗𝗘+𝗕𝗬+DIL+KANO+TMD+𝟮𝟬𝟮𝟱+𝗧𝗛𝗔𝗡𝗞)](https://git.io/typing-svg)
 
@@ -8,8 +8,8 @@
 <a href="https://github.com/deshallos1/followers"><img title="Followers" src="https://img.shields.io/github/followers/lezkush-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/lezkush8/lezkush-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lezkush8/lezkush-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/next55x/DILI_KANO_-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lezkush8/lezkush-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/next55x/DILI_KANO_-"><img title="Size" src="https://img.shields.io/github/repo-size/next55x/DILI_KANO_-?style=flat-square&color=blue"></a>
-<a href="https://github.com/next55x/DILI_KANO_-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/next55x/ENTA PRO_VIRUS_-"><img title="Size" src="https://img.shields.io/github/repo-size/next55x/DILI_KANO_-?style=flat-square&color=blue"></a>
+<a href="https://github.com/next55x/ENTA_PRO_-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -28,8 +28,6 @@
 Ent☠️☠️☠️☠️☠️💀💀💀💀💀💀☠️☠️☠️☠️💀☠️💀☠️💀☠️💀☠️💀☠️💀💀💀💀☠️☠️
 Danger repo by tanzania developers 
 Dont try to fork auto crach github account wen you fork this repo
-keep safe your account 
-☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️💀💀💀💀💀💀💀💀💀
-𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/next55x/DILI_KANO_-&template=https://github.com/next55x/DILI_KANO_-.git)***
+keep safe you ENTA PRO VIRUS DANGEROUS
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/next55x/DENTA-ENTA_-&template=https://github.com/next55x/ENTA_PRO_-.git)***
 er
